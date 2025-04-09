@@ -1,5 +1,22 @@
 # 💫 Über Mich:
-Ramazan Özgüven – Fachinformatiker Anwendungsentwickler | Webentwickler | Designer<br><br>Ich bin ein engagierter Fachinformatiker für Anwendungsentwicklung mit einer Leidenschaft für Webentwicklung, digitale Transformation und strategisches Online-Marketing. Mit fundierten Kenntnissen in Programmiersprachen wie Java, C#, SQL, HTML, CSS sowie Erfahrung in SEO, SEA und Social Media Management kombiniere ich Technik mit Kreativität, um maßgeschneiderte, leistungsstarke digitale Lösungen zu entwickeln.<br><br>BILDUNGSWEG :<br><br>07/2022 - 07/2024<br>UMSCHULUNG & Fachinformatiker Anwendungsentwickler<br>Aufgrund von Anerkennungsproblemen in meinem früheren Berufsfeld habe ich beschlossen, eine berufliche Neuorientierung zu suchen. Daher habe ich eine Umschulung zum Fachinformatiker absolviert und diese im Juli 2024 erfolgreich abgeschlossen. <br><br>07/2023 - 01/2024<br>PRAKTIKUM & C++ Developer<br>Während meines Praktikums habe ich hauptsächlich die Entwicklungsumgebung für das Projekt installiert und konfiguriert, einschließlich virtueller Maschinen auf Basis von Windows 2022 Server, Interbase Datenbanken und verschiedenen C++ Builder Entwicklungsumgebungen von Embarcadero, sowie Reportgeneratoren wie CrystalReports und FastReport. Ich habe mich in die Programmiersprache C++ sowie die Nutzung von Interbase, CrystalReports und FastReports eingearbeitet. Zudem habe ich den Quellcode eines Warenwirtschaftssystems von einer alten C++ Entwicklungsumgebung in eine neue portiert und die portierten Bibliotheken und Programmteile getestet.
+Ramazan Özgüven – Fachinformatiker Anwendungsentwickler | Webentwickler | Designer<br><br>Ich bin ein engagierter Fachinformatiker für Anwendungsentwicklung mit einer Leidenschaft für Webentwicklung, digitale Transformation und strategisches Online-Marketing. Mit fundierten Kenntnissen in Programmiersprachen wie Java, C#, SQL, HTML, CSS sowie Erfahrung in SEO, SEA und Social Media Management kombiniere ich Technik mit Kreativität, um maßgeschneiderte, leistungsstarke digitale Lösungen zu entwickeln.<br><br>
+
+## BILDUNGSWEG :<br><br>
+07/2022 - 07/2024<br>UMSCHULUNG & Fachinformatiker Anwendungsentwickler<br>Aufgrund von Anerkennungsproblemen in meinem früheren Berufsfeld habe ich beschlossen, eine berufliche Neuorientierung zu suchen. Daher habe ich eine Umschulung zum Fachinformatiker absolviert und diese im Juli 2024 erfolgreich abgeschlossen.
+
+- Java, C++, C#, SQL, Hardware, Netzwerk, IT Sicherheit, BWL, UML, Scrum, Kanban, Access, Elektrotechnik, Datenschutz, Datensicherheit, ICDL, Windows, Linux, Virtualisierung, Powershell, IHK Projektarbeiten<br>
+
+07/2023 - 01/2024<br>PRAKTIKUM & C++ Developer<br>Während meines Praktikums habe ich hauptsächlich die Entwicklungsumgebung für das Projekt installiert und konfiguriert, einschließlich virtueller Maschinen auf Basis von Windows 2022 Server, Interbase Datenbanken und verschiedenen C++ Builder Entwicklungsumgebungen von Embarcadero, sowie Reportgeneratoren wie CrystalReports und FastReport. Ich habe mich in die Programmiersprache C++ sowie die Nutzung von Interbase, CrystalReports und FastReports eingearbeitet. Zudem habe ich den Quellcode eines Warenwirtschaftssystems von einer alten C++ Entwicklungsumgebung in eine neue portiert und die portierten Bibliotheken und Programmteile getestet.
+
+## KENNTNISSE :<br><br>
+### Webentwicklung
+HTML5, CSS3, Bootstrap5, Tailwind , SASS, SCSS, Semantic UI, JavaScript, React, Reactstrap, Typescript, Material UI, Firebase, WordPress (Elementor, WooCommerce), Joomla, Git, GitHub
+### Design
+Figma – Canva – CapCut – UI Design – Adobe CC( InDesign, Photoshop)
+### Tools
+VS Code, Visual Studio, Chrome DevTools, Eclipse , Microsoft Office, Notion, Markdown, NPM, ESLint, Prettier, Agile, Scrum, Kanban, Jira, 
+### Marketing
+SEO – SEA – YouTube – Social Media Management – Digitales Marketing Management
 
 
 ## 🌐 Socials:
