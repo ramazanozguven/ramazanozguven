@@ -1,14 +1,7 @@
-# 💫 Über Mich:
+## ÜBER MICH:
 Ramazan Özgüven – Fachinformatiker Anwendungsentwickler | Webentwickler | Designer<br><br>Ich bin ein engagierter Fachinformatiker für Anwendungsentwicklung mit einer Leidenschaft für Webentwicklung, digitale Transformation und strategisches Online-Marketing. Mit fundierten Kenntnissen in Programmiersprachen wie Java, C#, SQL, HTML, CSS sowie Erfahrung in SEO, SEA und Social Media Management kombiniere ich Technik mit Kreativität, um maßgeschneiderte, leistungsstarke digitale Lösungen zu entwickeln.<br><br>
-
-## BILDUNGSWEG :<br><br>
-07/2022 - 07/2024<br>UMSCHULUNG & Fachinformatiker Anwendungsentwickler<br>Aufgrund von Anerkennungsproblemen in meinem früheren Berufsfeld habe ich beschlossen, eine berufliche Neuorientierung zu suchen. Daher habe ich eine Umschulung zum Fachinformatiker absolviert und diese im Juli 2024 erfolgreich abgeschlossen.
-
-- Java, C++, C#, SQL, Hardware, Netzwerk, IT Sicherheit, BWL, UML, Scrum, Kanban, Access, Elektrotechnik, Datenschutz, Datensicherheit, ICDL, Windows, Linux, Virtualisierung, Powershell, IHK Projektarbeiten<br>
-
-07/2023 - 01/2024<br>PRAKTIKUM & C++ Developer<br>Während meines Praktikums habe ich hauptsächlich die Entwicklungsumgebung für das Projekt installiert und konfiguriert, einschließlich virtueller Maschinen auf Basis von Windows 2022 Server, Interbase Datenbanken und verschiedenen C++ Builder Entwicklungsumgebungen von Embarcadero, sowie Reportgeneratoren wie CrystalReports und FastReport. Ich habe mich in die Programmiersprache C++ sowie die Nutzung von Interbase, CrystalReports und FastReports eingearbeitet. Zudem habe ich den Quellcode eines Warenwirtschaftssystems von einer alten C++ Entwicklungsumgebung in eine neue portiert und die portierten Bibliotheken und Programmteile getestet.
-
-## KENNTNISSE :<br><br>
+<br><br>
+## KENNTNISSE :
 ### Webentwicklung
 HTML5, CSS3, Bootstrap5, Tailwind , SASS, SCSS, Semantic UI, JavaScript, React, Reactstrap, Typescript, Material UI, Firebase, WordPress (Elementor, WooCommerce), Joomla, Git, GitHub
 ### Design
@@ -18,6 +11,48 @@ VS Code, Visual Studio, Chrome DevTools, Eclipse , Microsoft Office, Notion, Mar
 ### Marketing
 SEO – SEA – YouTube – Social Media Management – Digitales Marketing Management
 
+
+<br><br><br><br>
+
+## BILDUNGSWEG :
+07/2022 - 07/2024<br>UMSCHULUNG & Fachinformatiker Anwendungsentwickler<br>Aufgrund von Anerkennungsproblemen in meinem früheren Berufsfeld habe ich beschlossen, eine berufliche Neuorientierung zu suchen. Daher habe ich eine Umschulung zum Fachinformatiker absolviert und diese im Juli 2024 erfolgreich abgeschlossen.
+
+- Java, C++, C#, SQL, Hardware, Netzwerk, IT Sicherheit, BWL, UML, Scrum, Kanban, Access, Elektrotechnik, Datenschutz, Datensicherheit, ICDL, Windows, Linux, Virtualisierung, Powershell, IHK Projektarbeiten<br>
+
+07/2023 - 01/2024<br>PRAKTIKUM & C++ Developer<br>Während meines Praktikums habe ich hauptsächlich die Entwicklungsumgebung für das Projekt installiert und konfiguriert, einschließlich virtueller Maschinen auf Basis von Windows 2022 Server, Interbase Datenbanken und verschiedenen C++ Builder Entwicklungsumgebungen von Embarcadero, sowie Reportgeneratoren wie CrystalReports und FastReport. Ich habe mich in die Programmiersprache C++ sowie die Nutzung von Interbase, CrystalReports und FastReports eingearbeitet. Zudem habe ich den Quellcode eines Warenwirtschaftssystems von einer alten C++ Entwicklungsumgebung in eine neue portiert und die portierten Bibliotheken und Programmteile getestet.
+
+
+<br><br><br><br>
+
+## PROJEKTEN :
+### ZWISCHENPROJEKT - Website mit HTML-CSS-JavaScript-PHP  -> [ Link zur GitHub]( )
+Dieses Projekt wurde im Rahmen meiner Umschulung als Zwischenprojekt entwickelt und stellt eine vollständige Website für das Unternehmen Schwandorf Automobile aus Haiterbach dar. Die Firma ist auf den An- und Verkauf von Dodge Nitro Fahrzeugen spezialisiert und möchte mit dieser Website insbesondere Kunden in Deutschland und Europa ansprechen.
+
+<br><br>
+
+### ABSCHLUSSPROJEKT - Hotelregistrierungsprogramm mit C# , SQL  -> [ Link zur GitHub]( )
+Entwicklung eines datenbankgestützten Hotelregistrierungsprogramms zur Optimierung der Kundenregistrierung und -verfolgung sowie der Zimmerbelegungsübersicht im Hotel.
+Die Verfügbarkeit und Kompatibilität der verwendeten Technologien, wie C# und SQL, sind Teil des Projektumfelds und beeinflussen die Entwicklung und Implementierung des Programms.
+
+<br><br>
+
+### WEBSITE PROJEKTEN & HTML, CSS, JS   -> [ Link zur GitHub]( )
+Diese Projekte dienen dazu, mein Wissen und meine Fähigkeiten in der Front-End-Entwicklung zu verbessern und kreative Lösungen für verschiedene Design-Herausforderungen zu entwickeln.
+
+<br><br>
+
+### MODERNE WEBENTWICKLUNG   -> [ Link zur GitHub]( )
+Jedes Framework bietet benutzerfreundliche Oberflächen, schnelle Entwicklungsprozesse und Flexibilität, wodurch den Projekten unterschiedliche Designstile und Layouts verliehen werden. Die Webseiten sind für verschiedene Geräte optimiert und bieten eine hervorragende Nutzererfahrung. Jedes Projekt zeigt verschiedene Techniken und Ansätze zur Weiterentwicklung von Front-End-Fähigkeiten.
+
+<br><br>
+
+### CMS EXPERTE & WORDPRESS   -> [ Link zur Website]( )
+WordPress bietet eine flexible Plattform, die es ermöglicht, Websites einfach zu verwalten, Inhalte zu aktualisieren und Designänderungen vorzunehmen, ohne tiefgehende Programmierkenntnisse zu benötigen. Es bietet eine Vielzahl von Themen und Plugins, die es ermöglichen, Webseiten schnell und effizient zu gestalten und an die spezifischen Bedürfnisse der Nutzer anzupassen.
+
+<br><br>
+
+### REACT PROJEKTEN  -> [ Link zur GitHub]( )
+Ich arbeite an umfangreichen Webprojekten mit React. React ermöglicht die Erstellung interaktiver und dynamischer Benutzeroberflächen. In meinen Projekten setze ich Konzepte wie Komponenten, State-Management und Routing um, um effiziente und benutzerfreundliche Anwendungen zu entwickeln.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramazan-ozguven-bb744630a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramazanozguven@outlook.com) [Meine Portfolio Website](https://herrozguven.de/ "Meine Portfolio Website") | [ Xing](https://www.xing.com/profile/RAMAZAN_OeZGUeVEN "xing")
