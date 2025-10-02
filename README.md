@@ -3,13 +3,17 @@ Ramazan Özgüven – Fachinformatiker Anwendungsentwickler | Webentwickler | De
 <br><br>
 ## KENNTNISSE :
 ### Webentwicklung
-HTML5, CSS3, Bootstrap5, Tailwind , SASS, SCSS, Semantic UI, JavaScript, React, Reactstrap, Typescript, Material UI, Firebase, WordPress (Elementor, WooCommerce), Joomla, Git, GitHub
+HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Reactstrap, Material UI, Bootstrap 5, Tailwind CSS, Semantic UI, SASS, SCSS, RWD, Framer Motion, PHP, Laravel, Node JS, Express Js, Firebase, Nodemon, JSON, XML, MySQL, Mongo DB, MsSQL, WordPress (Elementor, WooCommerce), Joomla, Git, GitHub, Agile, Scrum, Kanban, Jira
+### Mobile
+React Native, Expo, Gluestack
 ### Design
 Figma – Canva – CapCut – UI Design – Adobe CC( InDesign, Photoshop)
 ### Tools
 VS Code, Visual Studio, Chrome DevTools, Eclipse , Microsoft Office, Notion, Markdown, NPM, ESLint, Prettier, Agile, Scrum, Kanban, Jira, 
 ### Marketing
 SEO – SEA – YouTube – Social Media Management – Digitales Marketing Management
+### Ausbildung
+Java, C#, C++, UML, OOP, SQL, Normalisierung, Datenbankmanagement, Access, Hardware, Netzwerktechnik, Elektrotechnik, IT-Sicherheit, BWL, Datenschutz, Datensicherheit, Windows, Linux, Virtualisierung, PowerShell, IHK Projektarbeit und Projektdokumentation
 
 
 <br><br><br><br>
